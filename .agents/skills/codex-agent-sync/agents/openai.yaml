@@ -1,0 +1,7 @@
+interface:
+  display_name: "Codex Agent Sync"
+  short_description: "Refresh and drift-check the ECC Codex agent pack"
+  brand_color: "#2563EB"
+  default_prompt: "使用 $codex-agent-sync 同步 Codex agents，并刷新 ECC 多 agent 转换包与翻译状态"
+policy:
+  allow_implicit_invocation: true
